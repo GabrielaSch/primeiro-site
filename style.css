@@ -1,0 +1,208 @@
+body{
+    text-align: center;
+    font-family:fantasy serif;
+    background-color:rgba(255, 158, 158, 0.507);
+    color:#161616;
+    margin: 0;
+    padding: 30px 0;
+  }
+  
+  h2{
+    color:#2a0074;
+    font-size:60px;
+  }
+  
+  h4{
+    font-size: 20px;
+    padding-bottom: 0px;
+    font-family: fantasy;
+    font-style: italic;
+  }
+  
+  .final{
+    padding-bottom: 20px;
+  }
+  
+  .titulofinal{
+    padding-top: 30px;
+  }
+  
+  .titulo-verde{
+    color:#22976a;
+  }
+  
+  .titulo-vermelho {
+    color: rgba(255, 0, 0, 0.63);
+    padding-top: 30px;
+  }
+  
+  .titulo-laranja{
+    color: orange;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    font-size: 20px;
+  }
+  
+  
+  section{
+    width:70%;
+    margin:0 auto;
+  }
+  
+  section section{
+    width:100%;
+    margin: 0 auto;
+  }
+  
+  h1{
+    font-size:60px;
+    font-weight:400;
+  }
+  
+  h3{
+    font-size:40px;
+    font-style:italic;
+  }
+  
+  p{
+    font-size:25px;
+    line-height:1.5;
+    padding:0px 0px 10px 10px
+    margin:0 auto;
+  }
+  
+  .subimg{
+    font-size:15px;
+  }
+  
+  img{
+    width:40%;
+  }
+  
+  ul{
+    list-style-type:none;
+    line-height:2;
+    padding-left:0;
+  }
+  
+  a{
+    text-decoration:none;
+    color:#351cc2;
+    font-weight:700;
+  }
+  
+  .principal{
+    background-color:#FF6CB5;
+    height:40px;
+    max-width: 60%;
+    margin:0 auto;
+    word-spacing: 50px;
+  }
+  
+  .principal a{
+    color:#FFF;
+    font-weight:normal;
+    text-decoration-line: underline;
+  }
+  
+  .principal a:hover{
+    color:#ffe36d;
+  }
+  
+  .principal li{
+    display:inline-block;
+    line-height:2.5;
+    margin:0 30px;
+    color: #FF00FF;
+  }
+  
+  .dic p{
+    color: black;
+    text-align: center;
+    font-size: 18px;
+    margin-right: 5px;
+  }
+  
+  
+  .dic li {
+    font-weight: bold;
+    display: inline-block;
+    padding:10px 0px 0px 0px;
+  }
+  
+  .refs li {
+    display: inline-block;
+    padding-top: 30px;
+  }
+  
+  .leg {
+    font-size: 15px;
+    padding-top: 0px;
+    font-style: italic;
+    font-family: cursive;
+  }
+  
+  .legs li {
+    display: inline;
+    margin: 0px 80px;
+    padding: 0px;
+  }
+  
+  .tatu{
+    width: 400px;
+    height: 300px;
+    object-fit: fill;
+  }
+  
+  .laranja{
+    width: 180px;
+    height: 180px;
+    object-fit: fill;
+  }
+  
+  .sp{
+    margin: 0px auto;
+    max-width: 72%;
+    padding: 3px 0px 0px 0px;
+    background-color: white;
+  }
+  
+  .ref{
+    width: 220px;
+    height: 200px;
+    object-fit: fill;
+    padding: 0px 10px;
+  }
+  
+  .gfzero{
+    width: 300px;
+    height: 250px;
+    object-fit: fill;
+  }
+  
+  .gfdois{
+    width: 200px;
+    height: 200px;
+    object-fit: fill;
+  }
+  
+  .gftres{
+    width: 200px;
+    height: 200px;
+    object-fit: fill;
+  }
+  
+  .gfquatro{
+    width: 200px;
+    height: 200px;
+    object-fit: fill;
+  }
+  
+  button{
+    background-color: #41f341;
+    border: 1px solid transparent;
+    padding: 2px 20px;
+    border-radius: 3px;
+    font-size: 15px;
+    font-weight:700;
+  }

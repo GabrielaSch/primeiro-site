@@ -1,0 +1,135 @@
+<!DOCTYPE HTML>
+ <html>
+  <head>
+  
+    <title>Vigor</title>
+    
+    <link href="css/style.css" rel="stylesheet">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="icon/icon/android-chrome-512x512.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="icon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="icon/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+
+  </head>
+
+  <body><h1>Gil do Vigor, Mania Nacional</h1>
+
+    <nav class="principal">
+      <ul>
+        <li>
+         <a href="#dicionario">Expressões</a> 
+        </li>
+        <li>
+          <a href="#starterpack">Estilo</a>
+        </li>
+        <li>
+         <a href="#referencias">Referências</a>
+       </li>
+      </ul>
+    </nav>
+
+    <section>
+
+      <h2>Brasyyyl</h2>
+
+      <p>Nem sempre certo, nem sempre justo, nem sempre bem acompanhado... Gilberto Nogueira, mais conhecido como GIL DO VIGOR, é o participante ícone do BBB21. É preciso homenageá-lo!</p>
+
+       <img class="tatu" src="img/tattoo.jpg" alt="tattoo.">
+
+      <section id="brazyyyl">
+
+        <h3 class="titulo-verde">Quem é esse homem</h3>
+
+        <p> Gil é uma gay nascida há 29 anos na cidade de Jaboatão - Pernambuco, e faz parte do elenco de anônimos do BBB 21. Mórmon forte candidato a excomungado e dono de um enorme carisma, Gilberto tornou-se o sopro de alegria nos duros dias do brasileiro lascado.
+        </p>
+        <p>
+              <img class="gfzero" src="img/acabou.gif" alt="acabou">
+        </p>
+
+      </section>
+
+      <section id="dicionario">
+
+        <h3 class="titulo-vermelho">conhecido pela audiência por seu vocabulário...</h3>
+
+          <ul class="dic">
+            <li>
+              <p class="titulodic">BASCULHO</p> <p>(abaixo do lixo)</p>
+              <img class="gfdois" src="img/basculho.gif" alt="basculho">
+            </li>
+            <li>
+              <p class="titulodic">REGOZIJO</p> <p>(imensa sensação de prazer)</p>
+              <img class="gftres" src="img/regozijo.gif" alt="regozijo">
+            </li>
+            <li>
+              <p class="titulodic">CACHORRADA</p> <p>(safadeza)</p> 
+              <img class="gfquatro" src="img/beijo.gif" alt="beijo">
+            </li> 
+          </ul> 
+    
+      </section>
+
+      <section id="starterpack">
+        <h3 class="titulo-vermelho">por seu estilo...</h3>
+      
+        <h3 class="titulo-laranja">Gil Starter Pack</h3>
+        <nav class="sp">
+            <img class="laranja" src="img/sapato.jpg" alt="sapato">
+            <img class="laranja" src="img/camisa.jpg" alt="camisa">
+            <img class="laranja src=" src="img/pente.jpg" alt="pente">
+        </nav> 
+
+      <section id="referencias">
+
+        <h3 class="titulo-vermelho"> e por suas referências...</h3>
+        
+          <ul class="refss">
+            <li>
+              <img class="ref" src="img/britney.jpg" alt="britney">
+              <img class="ref" src="img/fantasmadaopera.jpg" alt="fantasmadaopera">
+            </li>
+          </ul>
+          <ul class="reefs">
+            <li>
+              <img class="ref" src="img/jesus.jpg" alt="jesus">
+              <img class="ref" src="img/pablo.jpg" alt="pablo">
+            </li>
+          </ul>
+
+      </section>
+
+      <h3 class="titulo-vermelho">Obrigada por tudo!</h3>
+
+        <h3 class="titulofinal">Seja um seguidor dessa igreja:</h3>
+
+        <nav class="final">
+          <ul>
+            <li>
+              <a href="https://twitter.com/GilDoVigor" target="_blank">Twitter</a>
+            </li>
+
+            <li>
+              <a href="https://www.instagram.com/gildovigor/" target="_blank">Instagram</a>
+            </li>
+          </ul>
+        </nav>
+
+        <h4>Congregue-se!</h4>
+        <form>
+
+          <label for="nome">Nome:</label>
+          <input id="nome" type="text">
+      
+          <label for="email">Email:</label>
+          <input id="email" type="email">
+
+          <button id="botaoEnviar">Enviar</button>
+
+        </form>
+
+  <script type="text/javascript" src="js/script.js">
+  </script>
+
+  </body>
+ </html>
